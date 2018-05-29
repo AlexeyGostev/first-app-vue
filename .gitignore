@@ -1,0 +1,16 @@
+.idea
+.vscode
+.env
+.node-*
+
+node_modules/
+build/
+resourses/
+logs/
+public/
+
+npm-debug.log
+error.log
+package-lock.json
+
+ToDo
